@@ -1,0 +1,170 @@
+[
+    {
+        "Name": "Comrade's Missive",
+        "Sphere": "Cervitas",
+        "Type": "-",
+        "Effect": "The message that you have written is magically sent to the Cervitas Herald or Eternal of your choice, so long as you have properly addressed it. There is no guarantee that you will receive a response, and the Ceremony does not magically assist them in replying.",
+        "Magnitude": "2",
+        "Eternal": null
+    },
+    {
+        "Name": "Call Winged Messenger",
+        "Sphere": "Cervitas",
+        "Type": "-",
+        "Effect": "Sends a message to a recipient anywhere in the Mortal Sphere who has indicated they can be contacted this way, either by public declaration or a document indicating as such. The target\u2019s full name and location must be known and written on the message. Up to 4 additional sheets of paper can be sent, to up to 4 additional recipients, at a cost of 2 magnitude per sheet. Additional targets must be present for the whole Ceremony as well.",
+        "Magnitude": "2",
+        "Eternal": "The Masses"
+    },
+    {
+        "Name": "Break off the Chain of Memory",
+        "Sphere": "Cervitas",
+        "Type": "-",
+        "Effect": "Excises one or more memories from a willing character, removing it from their mind. The contents of the memory are focused on by the individual for the duration of the Ceremony, and need not be revealed to those around them. When the character attempts to recall the memory, they are filled with guilt.",
+        "Magnitude": "2",
+        "Eternal": "The Blooded Stone"
+    },
+    {
+        "Name": "Duty's Sacrifice",
+        "Sphere": "Cervitas",
+        "Type": "-",
+        "Effect": "Moves one Effect, Wound or Curse from one willing character to another willing character. This cannot be used to move the Terminal effect.",
+        "Magnitude": "4",
+        "Eternal": "The Masses"
+    },
+    {
+        "Name": "Words as Deeds",
+        "Sphere": "Cervitas",
+        "Type": "-",
+        "Effect": "The target Band may change its Oath, all members must be present to speak the new Oath, and sanctify it to the Spheres with their raised voices in the form of their warcry. The members of the target Band who are present all gain 1 temporary Energy, which may temporarily take them over their maximum Energy until it is spent.",
+        "Magnitude": "4",
+        "Eternal": "The Crowngrave"
+    },
+    {
+        "Name": "Aid Once More",
+        "Sphere": "Cervitas",
+        "Type": "Enchantment",
+        "Effect": "Once per day the target may assist in Ceremonies being cast by Sects they are not a member of. This means that they are able to bypass any requirements relating to Realm as well. The target experiences a roleplaying effect. Lasts until the end of the event.",
+        "Magnitude": "5",
+        "Eternal": "The Masses"
+    },
+    {
+        "Name": "Blessing of the Pillar",
+        "Sphere": "Cervitas",
+        "Type": "Enchantment",
+        "Effect": "The target may cast Heal and call Stay With Me on other members of their Band as if they knew the spell or skill, though they must still pay the mana or energy cost for them. The target experiences a roleplaying effect. Lasts until the end of the event.",
+        "Magnitude": "5",
+        "Eternal": "The Blooded Stone"
+    },
+    {
+        "Name": "Bond of Loyalty",
+        "Sphere": "Cervitas",
+        "Type": "Enchantment",
+        "Effect": "Up to five willing characters swear loyalty to each other, come what may. They are wracked by crushing guilt at even the idea of betraying the other characters in the bond in any way they would consider a betrayal, and find it physically painful to do so - the bigger the betrayal, the greater the pain. Lasts until the end of the event.",
+        "Magnitude": "6",
+        "Eternal": "The Crowngrave"
+    },
+    {
+        "Name": "Cervitas' Bulwark",
+        "Sphere": "Cervitas",
+        "Type": "Enchantment",
+        "Effect": "The target gains the Bulwark skill, allowing them to use a shield. The target experiences a roleplaying effect. Lasts until the end of the event.",
+        "Magnitude": "6",
+        "Eternal": "The Blooded Stone"
+    },
+    {
+        "Name": "Shunned by the Spheres",
+        "Sphere": "Cervitas",
+        "Type": "Curse",
+        "Effect": "The Cursed target no longer gains any bonuses from artisan items that are attuned to their band or sect specifically, and cannot interact with those items as if they were a member of the band or sect. For the duration, you feel distant and disconnected from all the members of your band or sect, all spoken words from members of your band or sect are heard by you as mumbles and unclear whispers. This Curse has no effect on any artisan items specifically solely bonded to the Cursed character. Lasts until the end of the event.",
+        "Magnitude": "8",
+        "Eternal": "The Crowngrave"
+    },
+    {
+        "Name": "Smith's Inspiration",
+        "Sphere": "Cervitas",
+        "Type": "Enchantment",
+        "Effect": "The target character may repair a weapon or shield that has been affected by Break three times per day after five seconds of appropriate roleplay. If you recover all energy from an effect, it also recovers the uses of this ability. Target experiences a roleplaying effect. Lasts until the end of the event.",
+        "Magnitude": "8",
+        "Eternal": "The Blooded Stone"
+    },
+    {
+        "Name": "Chamber of Delights",
+        "Sphere": "Cervitas",
+        "Type": "Enchantment",
+        "Effect": "Enchants a target area with an aura of relaxation that encourages people to indulge and luxuriate in pleasurable sensations. The target area is not large, and is roughly equal to one tent or a single table in a larger area. In addition, if you spend more than fifteen minutes resting in this location, and consume both food and drink of some kind, you recover all personal mana. Lasts until the end of the event.",
+        "Magnitude": "10",
+        "Eternal": "The Masses"
+    },
+    {
+        "Name": "Blessing of the Legion",
+        "Sphere": "Cervitas",
+        "Type": "Enchantment",
+        "Effect": "All characters from the target Band gain one additional hitpoint. If the Band has more than ten members, the Band leader also gains an additional energy. Any characters who join the target Band after the conclusion of the Ceremony do not gain the benefit of this Enchantment, nor do they count to the number of members for the purposes of giving the Band leader additional energy. Targets experience a roleplaying effect. Lasts until the end of the event.",
+        "Magnitude": "12",
+        "Eternal": "The Masses"
+    },
+    {
+        "Name": "Blessing of the Iron Sergeant",
+        "Sphere": "Cervitas",
+        "Type": "Enchantment",
+        "Effect": "Target characters, who are all members of a single warband, all gain proficiency in any one weapon (the same weapon for all characters), provided they have passed any appropriate clearances. Targets experience a roleplaying effect. Lasts until the end of the event.",
+        "Magnitude": "13",
+        "Eternal": "The Crowngrave"
+    },
+    {
+        "Name": "Hands of the Healer",
+        "Sphere": "Cervitas",
+        "Type": "Enchantment",
+        "Effect": "The target may swift cast Heal for 1 mana rather than 2. Additionally, the target also gains two additional personal mana. If the target character deals damage to a target, this effect on them ends immediately and irreversibly. Target experiences a roleplaying effect. Lasts until the end of the event.",
+        "Magnitude": "15",
+        "Eternal": "The Blooded Stone"
+    },
+    {
+        "Name": "Strike the Holy Oath",
+        "Sphere": "Cervitas",
+        "Type": "-",
+        "Effect": "Target willing character/s swear an oath. If they break this oath, they immediately become terminal. The oath is divinely judged by The Masses (see a Storyteller if it is not clear if the oath has been broken), and those who perish this way have their souls fed to The Oathwarg. The target cannot be released from this oath except for by a Cervitas Herald or Eternal",
+        "Magnitude": "20",
+        "Eternal": "The Crowngrave"
+    },
+    {
+        "Name": "Betrayer's Fleshcurse",
+        "Sphere": "Cervitas",
+        "Type": "Curse",
+        "Effect": "The Cursed character is constantly under the effect of Venom. This cannot be removed or interrupted in any way while the Curse is in effect. The character is more likely to suffer Traumatic Wounds, even if they end the conflict on full health. While this Curse is in effect, the target cannot be fully cured of any Traumatic Wounds. If the character becomes terminal while under this Curse, they are overwhelmed by feverish delirium and suffer a slow, agonizing death as the flesh rots from their bones. Target experiences a roleplaying effect. This curse lasts four events.",
+        "Magnitude": "35",
+        "Eternal": "The Blooded Stone"
+    },
+    {
+        "Name": "Weight of your Words",
+        "Sphere": "Cervitas",
+        "Type": "Enchantment",
+        "Effect": "The target character may cast a single Mass Shackle each day for no cost. If you recover all mana from an effect, it also recovers the uses of this ability. Target experiences a roleplaying effect. Lasts until the end of the event.",
+        "Magnitude": "35",
+        "Eternal": "The Crowngrave"
+    },
+    {
+        "Name": "Bound by Common Cause",
+        "Sphere": "Cervitas",
+        "Type": "Enchantment",
+        "Effect": "The target Army or Navy gains an additional 50 strength for each military unit from an Investment attached to it for the next season. The General or Admiral of the force experiences a roleplaying effect.",
+        "Magnitude": "50",
+        "Eternal": "The Masses"
+    },
+    {
+        "Name": "Defender's Blessed Cohort",
+        "Sphere": "Cervitas",
+        "Type": "Enchantment",
+        "Effect": "The target Fortification is blessed by spectral warriors that rise to defend it, increasing its strength by 1500 for the next season. Throwing themselves headlong at foes before they can do damage to the living, these spectral warriors take casualties before their allies. With the mana sapped from the land, one random neighbouring province has its resource producing buildings count as one tier lower (to a minimum of one) for the season.",
+        "Magnitude": "60",
+        "Eternal": "The Blooded Stone"
+    },
+    {
+        "Name": "Arboreal Brotherhood of Rage",
+        "Sphere": "Cervitas",
+        "Type": "Enchantment",
+        "Effect": "Plants within a region spring to life and attack wildly; indiscriminately. Each season for the next four seasons armies in the region suffer 250 casualties. Fortifications take double the amount. Farms, Herb Gardens, and Wilderness Investments in the target region produce at half rate as even the simple crops and herbs rise on spindly roots to strangle those that would reap them.",
+        "Magnitude": "120",
+        "Eternal": "The Crowngrave"
+    }
+]
