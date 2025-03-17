@@ -11,11 +11,13 @@
         <h1 class="mb-4">CeremonyGuesser</h1>
 
         <h2 id="masked-title" class="mb-3">Loading...</h2>
+
+        
         
         <div id="hints" class="mb-3">
             <button class="btn btn-primary" onclick="updateMaskedTitle()">Reveal A Letter</button>
-            <button class="btn btn-secondary" onclick="revealHint('magnitude')">Reveal Magnitude</button>
-            <button class="btn btn-success" onclick="revealHint('type')">Reveal Type</button>
+            <button id="magnitude-button" class="btn btn-secondary" onclick="revealHint('magnitude')">Reveal Magnitude</button>
+            <button id="type-button" class="btn btn-success" onclick="revealHint('type')">Reveal Type</button>
         </div>
         
         <div id="hint-results" class="mb-3"></div>
@@ -50,8 +52,8 @@
             })
             .then(response => response.json())
             .then(data => {
-                const hintDiv = document.getElementById("hint-results");
-                hintDiv.innerHTML += `<p><strong>${data.hint_type}:</strong> ${data.hint_value}</p>`;
+                const buttonId = hintType === 'magnitude' ? 'magnitude-button' : 'type-button';
+                document.getElementById(buttonId).textContent = data.hint_value;
             });
         }
 
